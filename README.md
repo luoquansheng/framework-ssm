@@ -12,8 +12,12 @@
   本项目使用SpringBoot、SpringMVC、MyBatis作为基本的项目框架，后面还会有SpringBoot、SpringMVC、JPA技术的项目框架，请抢好沙发咯。
 ## 3、开发环境
 ***JDK1.8***
+
 ***MySQL***
+
 ***Maven***
+
 ***可能会有Redis***
+
 
 
